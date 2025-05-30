@@ -7,6 +7,7 @@ int main(){
 
     if (numero < 0){
         cout << "No puedes ingresar un numero menor a 0" <<endl;
+         cout << "No puedes ingresar un numero menor a 0" <<endl;
 
     }
     else {
